@@ -1,5 +1,5 @@
 # ibgecod
-Correspondência Nome - Códigos IBGE
+Lista de Correspondência Nome - Códigos IBGE
 
 Você já se deparou com um banco de dados que continha os nomes dos município brasileiros sem os correspondentes códigos IBGE? Teve vontade de chorar né? 
 
